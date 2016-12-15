@@ -1,0 +1,52 @@
+green wall notes
+----------------
+blurb:
+a weirdly addictive arcade game, where you fling fruit against a big green wall.
+
+
+possibly next up:
+ - something protects from ketchup?
+ - give extra lives if you do something?  special symbol shows on screen, if you hit it with a combo, you get another life?
+ - have fruits comeout in more than one row after certain level
+ - change combo text to btm, with text and image, alpha bg
+ - add spaz to combo?  spaz is 3x multiplier to combo and makes combo spaz harder?
+  min number of combos per round -> per 10 levs, combo reqt.  after lev 20, reqt is in a scrqqn quadrant
+  targets?  halo looking glow ring, 2x points for anything in target, target had 30% min
+     or req part of screen to be hit?
+  catch phone exit and go bac to title screen.  are you sure?
+  maybe make fruit randomly twitch or wobble?
+
+
+log---
+------
+may 5 retweaked sizing. added dancing fruit.
+
+mar 6
+level pass and death sounds
+redid how showing selectable fruit happens, now time and random driven, not framerate dependent
+soothed perspective problem when release away from horiz center of screen, added some x-dependednt magic
+
+mar 4
+x - shrink orange, it hides ketchup, that's kinda wrong haha
+added lev to high score
+synced up to github
+
+feb 28
+ - add sound
+ - add proper banana
+ - add splat to title screen
+
+feb 26
+added ketchups
+
+feb 25
+handled orientatsion; take full screen.  what opts do i set so we don't die?
+cleaned a little combo text display
+high scores
+added milk, ice cream and ketchup, though ketchup acts like normal fruit so far.
+
+feb 24 - got basic combos working.  would like to change color and add more combos.
+
+handled:
+scale wall bitmap
+smooth throw speed - use avg of last few timepoints? -- used velocitytracker.
