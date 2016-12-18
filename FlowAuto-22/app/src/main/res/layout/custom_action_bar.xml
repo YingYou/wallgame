@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+        android:background="@color/flow_282c32">
+
+<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+        android:text="流量助手"
+        android:id="@+id/title_tv"
+        android:gravity="fill_vertical"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"/>
+
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:layout_marginRight="10dp">
+
+        <com.yw.FlowAuto.view.PerformanceImageView android:layout_width="wrap_content"
+                                                   android:layout_height="fill_parent"
+                                                   android:src="@drawable/icon_detail"
+                                                   android:clickable="true"
+                                                   android:id="@+id/detail_iv"
+                                                   android:layout_marginRight="10dp"
+                                                 />
+
+        <com.yw.FlowAuto.view.PerformanceImageView
+                android:id="@+id/setting_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:src="@drawable/icon_settings"
+
+                android:clickable="true"
+              />
+
+
+            </LinearLayout>
+
+</RelativeLayout>

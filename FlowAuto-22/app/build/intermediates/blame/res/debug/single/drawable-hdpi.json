@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_off_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_on_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_close_bg_normal.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_close_bg_tap.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

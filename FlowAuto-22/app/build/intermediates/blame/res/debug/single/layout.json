@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/custom_action_bar_detail.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/custom_action_bar_detail.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/activity_link_flow.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/activity_link_flow.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/custom_action_bar.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/custom_action_bar.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/listitem_flow_recode.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/listitem_flow_recode.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/swipeback_layout.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/activity_flow_wecome.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/activity_flow_wecome.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/fragement_flow_count.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/fragement_flow_count.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/listitem.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/listitem.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/tasker_profile_buttons.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/tasker_profile_buttons.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/custom_settings_action_bar.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/custom_settings_action_bar.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/layout_svprogresshud.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/layout_svprogresshud.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/tb_munion_aditem.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/tb_munion_aditem.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/activity_flow_details.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/activity_flow_details.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/fragment_flow_wall.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/fragment_flow_wall.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/view_svprogressdefault.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/view_svprogressdefault.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/activity_flow_settings.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/activity_flow_settings.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/layout/umeng_update_dialog.xml"
+    }
+]

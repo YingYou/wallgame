@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/busybox_g1",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/busybox_g1"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/iptables_armv5",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/iptables_armv5"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/nflogv2",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/nflogv2"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/nflog_x86",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/nflog_x86"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/busybox_x86v2",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/busybox_x86v2"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/raw/ifconfig",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/raw/ifconfig"
+    }
+]

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@android:color/white"
+        >
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:background="@color/flow_282c32">
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/flow_282c32"
+            android:text="2G/3G/4G"
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:textColor="@android:color/white"
+            android:drawableLeft="@drawable/icon_3g"
+            />
+
+
+    <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+        <com.timqi.sectorprogressview.ColorfulRingProgressView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/crpv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:bgColor="#e1e1e1"
+                app:fgColorEnd="@color/flow_circle_color"
+                app:fgColorStart="@color/flow_circle_color"
+                app:percent="0"
+                app:startAngle="0"
+                app:strokeWidth="21dp" />
+
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+android:layout_gravity="center"
+                      android:orientation="vertical">
+
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:text="本月剩余"/>
+            <TextView
+                    android:id="@+id/tvPercent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="0MB"
+                    android:textColor="#fff"
+                    android:textSize="34sp" />
+                </LinearLayout>
+
+    </FrameLayout>
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+                  android:background="@color/flow_d8d9d6"
+                  android:padding="20dp"
+                  android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+        <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:textColor="@color/flow_circle_color"
+                    android:text="0B"
+
+                    android:id="@+id/currentUserFlow"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="本月已用"/>
+                </LinearLayout>
+
+
+        <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                      android:layout_weight="1"
+                      android:gravity="center_horizontal"
+                      android:orientation="vertical">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:textColor="@color/flow_circle_color"
+                      android:text="0B"
+
+                      android:id="@+id/dayUserFlow"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:text="今日已用"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                      android:layout_weight="1"
+                      android:gravity="center_horizontal"
+                      android:orientation="vertical">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:textColor="@color/flow_circle_color"
+                      android:text="7天"
+
+                      android:id="@+id/monthUserFlow"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                      android:text="距月结日"/>
+        </LinearLayout>
+
+            </LinearLayout>
+
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:background="@android:color/white"
+            >
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="WIFI"
+                android:gravity="center_vertical"
+                android:textSize="16sp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:id="@+id/assist_wifi_3g"
+                />
+
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:textSize="16sp"
+                android:text="正在使用WIFI网络"
+                android:id="@+id/wifi_conent"
+                android:drawableLeft="@drawable/light_green"/>
+
+        <View android:layout_width="fill_parent" android:layout_height="1dp"
+              android:background="@color/gray_cecece"
+              android:layout_marginRight="5dp"
+              android:layout_marginLeft="5dp"
+              android:id="@+id/line_view"
+              android:layout_below="@id/wifi_conent">
+
+        </View>
+
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="本月已用"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:layout_below="@id/line_view"
+                android:id="@+id/tv_used1"
+                android:layout_margin="20dp"
+                />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="34"
+                android:textSize="18sp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/tv_used1"
+                android:layout_below="@id/line_view"
+                android:id="@+id/flow_circle_value"
+                android:textColor="@color/flow_circle_color"/>
+
+
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="今日已用"
+                  android:textSize="16sp"
+                  android:textColor="@android:color/black"
+                  android:layout_below="@id/flow_circle_value"
+                  android:id="@+id/tv_used_day"
+                  android:layout_margin="20dp"
+                />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="34"
+                  android:textSize="18sp"
+                  android:layout_marginTop="20dp"
+                  android:layout_toRightOf="@id/tv_used1"
+                  android:layout_below="@id/flow_circle_value"
+                  android:id="@+id/flow_day_value"
+                  android:textColor="@color/flow_circle_color"/>
+            </RelativeLayout>
+    </LinearLayout>
+</ScrollView>
+

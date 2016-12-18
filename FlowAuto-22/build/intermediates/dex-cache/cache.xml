@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0_6f207c76ee218a27df123da4c5dd580a26c20e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_fd69c5b1f15d197a889e4a56c5ed79f3a61f1b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/umeng-update-v2.6.0.1_0c29bc9b40de77fa711ddaa261045fc12c38c287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/umeng-update-v2.6.0.1_0c29bc9b40de77fa711ddaa261045fc12c38c287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_af4389760eaf80cf773ac7f99f7731d9e266d494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/debug/umeng-update-v2.6.0.1_0c29bc9b40de77fa711ddaa261045fc12c38c287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_af4389760eaf80cf773ac7f99f7731d9e266d494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0_6f207c76ee218a27df123da4c5dd580a26c20e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_af4389760eaf80cf773ac7f99f7731d9e266d494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/xUtils-2.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c36413ba62fd6433e117bd58fe9264f3a1141a6">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/xUtils-2.6.11_c316b81d7e84895650ed57a82c95e5573e9cd605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/xUtils-2.6.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c36413ba62fd6433e117bd58fe9264f3a1141a6">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/debug/xUtils-2.6.11_c316b81d7e84895650ed57a82c95e5573e9cd605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0_fd69c5b1f15d197a889e4a56c5ed79f3a61f1b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_6f207c76ee218a27df123da4c5dd580a26c20e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0_fd69c5b1f15d197a889e4a56c5ed79f3a61f1b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/libs/xUtils-2.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c36413ba62fd6433e117bd58fe9264f3a1141a6">
+        <dex dex="/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/pre-dexed/release/xUtils-2.6.11_c316b81d7e84895650ed57a82c95e5573e9cd605.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_vertical"
+        android:background="@color/flow_282c32">
+
+    <com.yw.FlowAuto.view.PerformanceImageView android:layout_width="wrap_content"
+                                               android:layout_height="wrap_content"
+            android:src="@drawable/iconfontback"
+            android:id="@+id/back_flow"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="10dp"/>
+
+    <com.yw.FlowAuto.view.SegmentedGroup android:id="@+id/segmented_detail"
+                                         android:layout_width="0dp"
+                                         android:layout_weight="1"
+                                         android:layout_height="wrap_content"
+                                         android:layout_centerInParent="true"
+                                         android:layout_margin="10dp"
+                                         android:gravity="center_horizontal"
+                                         android:orientation="horizontal"
+                                         segmentedgroup:border_width="2dp"
+                                         segmentedgroup:corner_radius="10dp"
+                                         xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+            >
+        <RadioButton
+                android:id="@+id/button_share_left"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="流量统计" />
+
+        <RadioButton
+                android:id="@+id/button_share_right"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="防火墙" />
+
+
+            </com.yw.FlowAuto.view.SegmentedGroup>
+</LinearLayout>

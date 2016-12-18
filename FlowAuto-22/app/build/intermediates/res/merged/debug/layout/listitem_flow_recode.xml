@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingBottom="2dip"
+
+              android:paddingTop="10dip">
+
+    <ImageView
+            android:id="@+id/itemicon"
+            android:layout_width="50dip"
+            android:src="@drawable/ic_launcher"
+            android:layout_height="40dip" >
+    </ImageView>
+
+    <TextView
+            android:id="@+id/itemtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dip"
+
+            android:layout_toRightOf="@id/itemicon"
+            android:textColor="@android:color/black"
+            android:text="uid:packages" >
+    </TextView>
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+            android:textColor="@color/flow_circle_color"
+            android:layout_toRightOf="@id/itemicon"
+            android:gravity="center"
+            android:layout_below="@id/itemtext"
+            android:id="@+id/count_wifi_flow"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:padding="5dp"
+            android:drawableLeft="@drawable/assist_switcher_wifi_on"
+            android:text="0 K"/>
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="@color/flow_circle_color"
+              android:layout_toRightOf="@id/count_wifi_flow"
+              android:gravity="center"
+              android:layout_below="@id/itemtext"
+              android:id="@+id/count_3g_flow"
+              android:layout_centerVertical="true"
+              android:layout_marginRight="10dp"
+              android:padding="5dp"
+              android:drawableLeft="@drawable/assist_switcher_mobile_data_on"
+              android:text="0 K"/>
+</RelativeLayout>

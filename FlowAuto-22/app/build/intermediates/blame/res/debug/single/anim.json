@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svfade_out_center.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svfade_out_center.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svfade_in_center.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svfade_in_center.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svslide_out_bottom.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svslide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svslide_in_bottom.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svslide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svslide_in_top.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svslide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/build/intermediates/res/merged/debug/anim/svslide_out_top.xml",
+        "source": "/Users/yangwei/Downloads/wallgame/FlowAuto-22/app/src/main/res/anim/svslide_out_top.xml"
+    }
+]

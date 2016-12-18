@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="bgColor" format="color" />
+    <attr name="fgColor" format="color" />
+    <attr name="percent" format="float" />
+    <attr name="startAngle" format="float" />
+
+    <declare-styleable name="SectorProgressView">
+        <attr name="bgColor" />
+        <attr name="fgColor" />
+        <attr name="percent" />
+        <attr name="startAngle" />
+    </declare-styleable>
+
+    <declare-styleable name="ColorfulRingProgressView">
+        <attr name="bgColor" />
+        <attr name="fgColorStart" format="color" />
+        <attr name="fgColorEnd" format="color" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="percent" />
+        <attr name="startAngle" />
+    </declare-styleable>
+
+    <declare-styleable name="SegmentedGroup">
+        <attr name="corner_radius" format="dimension" />
+        <attr name="border_width" format="dimension" />
+        <attr name="tint_color" format="color" />
+        <attr name="checked_text_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SVCircleProgressBar">
+        <attr name="roundColor" format="color"/>
+        <attr name="roundProgressColor" format="color"/>
+        <attr name="roundWidth" format="dimension"></attr>
+        <attr name="max" format="integer"></attr>
+        <attr name="style">
+            <enum name="STROKE" value="0"></enum>
+            <enum name="FILL" value="1"></enum>
+        </attr>
+    </declare-styleable>
+
+
+    <declare-styleable name="SwipeBackLayout">
+        <attr name="edge_size" format="dimension"/>
+        <attr name="edge_flag">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="bottom" value="2" />
+            <enum name="all" value="3" />
+        </attr>
+        <attr name="shadow_left" format="reference"/>
+        <attr name="shadow_right" format="reference"/>
+        <attr name="shadow_bottom" format="reference"/>
+    </declare-styleable>
+
+    <attr name="SwipeBackLayoutStyle" format="reference"/>
+
+</resources>

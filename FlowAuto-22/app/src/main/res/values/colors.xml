@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_cecece">#cecece</color>
+    <color name="black">#000000</color>
+    <color name="color_fbd31d">#f1e6b3</color>
+    <color name="transparent_cover">#25f1e6b3</color>
+    <color name="color_fbd31d_text">#fbd31d</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="flow_circle_color">#4caf50</color>
+    <color name="flow_circle_color_half">#7f4caf50</color>
+    <color name="flow_282c32">#282c32</color>
+    <color name="flow_d8d9d6">#d8d9d6</color>
+
+    <color name="radio_button_selected_color">#ffffff</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <!--窗口背景颜色-->
+    <color name="bgColor_svprogressdefaultview">@android:color/white</color>
+    <!--标题颜色-->
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="roundProgressColor_svprogresshuddefault">@android:color/black</color>
+
+</resources>
